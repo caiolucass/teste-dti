@@ -1,2 +1,2 @@
 # teste-dti
-Teste prático feito para a empresa Dti
+Teste prático feito para a empresa Dti para a vaga de estágio de desenvolvedor fron-end.
