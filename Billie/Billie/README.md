@@ -15,5 +15,5 @@ The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More detail
 
 ## Avisos
 
-A função "Gerrar_PlayList" a está incompleta devido falta de tempo para teste e implementação, por isso
+A função "Gerrar_PlayList"  está incompleta devido falta de tempo para teste e implementação, por isso
 a função está comentada.
